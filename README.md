@@ -8,7 +8,7 @@ Difference between the original tutorial and this example are:<br>
 3. Tryed out different bag of words scoring ( credit to : https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016 and https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
 </p>
 <h2>Disclaimer</h2>
-<p>NN model here in overfitted to the dataset and further callibration is needed with more data.<br>
+<p>NN model here is overfitted to the dataset and further callibration is needed with more data.<br>
 This is just an example of how one can create simple chatbot and deploy it</p>
 
 <h3>Prototyping example</h3>
